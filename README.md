@@ -4,7 +4,7 @@
 
 <img src="Snakebite.png" alt="Snakebite Banner" width="100%"/>
 
-# 🐍 Snakebite — Advanced Vulnerability Scanner
+# 🐍 Snakebite Advanced Vulnerability Scanner
 
 ![Version](https://img.shields.io/badge/Version-2.0-00ff41?style=for-the-badge&labelColor=1a1a2e)
 ![Modules](https://img.shields.io/badge/Modules-122+-ff6b6b?style=for-the-badge&labelColor=1a1a2e)
@@ -22,16 +22,16 @@
 
 ## 🔥 What is Snakebite?
 
-Snakebite is a **professional-grade vulnerability scanner** with **122+ security modules** built for penetration testers, bug bounty hunters, and security researchers. It performs comprehensive security assessments including reconnaissance, injection testing, CMS scanning, and advanced exploit detection — all from a **single executable**.
+Snakebite is a **professional-grade vulnerability scanner** with **122+ security modules** built for penetration testers, bug bounty hunters, and security researchers. It performs comprehensive security assessments including reconnaissance, injection testing, CMS scanning, and advanced exploit detection all from a **single executable**.
 
 ### ✅ Why Snakebite?
 
-- 🔥 **122+ Security Modules** — More than any other scanner
-- 🎯 **Zero Dependencies** — Single standalone executable
-- ⚡ **Async Architecture** — Lightning-fast concurrent scanning
-- 📊 **Professional Reports** — JSON, HTML & PDF output
-- 🛡️ **OWASP Top 10** — Full compliance assessment
-- 🤖 **AI-Powered** — Smart vulnerability prediction
+- 🔥 **122+ Security Modules** - More than any other scanner
+- 🎯 **Zero Dependencies** - Single standalone executable
+- ⚡ **Async Architecture** - Lightning-fast concurrent scanning
+- 📊 **Professional Reports** - JSON, HTML & PDF output
+- 🛡️ **OWASP Top 10** - Full compliance assessment
+- 🤖 **AI-Powered** - Smart vulnerability prediction
 
 ### 📊 Comparison
 
@@ -52,8 +52,8 @@ Snakebite is a **professional-grade vulnerability scanner** with **122+ security
 
 | Platform | Download | Size |
 |:--------:|:--------:|:----:|
-| 🪟 **Windows x64** | [**Snakebite.exe**](https://github.com/xKILLERDEADx/snakebite/releases/latest) | ~17 MB |
-| 🐧 **Linux x64** | [**snakebite-linux**](https://github.com/xKILLERDEADx/snakebite/releases/latest) | ~28 MB |
+| 🪟 **Windows x64** | [**Snakebite.exe**](https://github.com/V3n0mSh3ll/snakebite/releases/latest) | ~17 MB |
+| 🐧 **Linux x64** | [**snakebite-linux**](https://github.com/V3n0mSh3ll/snakebite/releases/latest) | ~28 MB |
 
 > 💡 **No Python installation required.** Just download and run!
 
@@ -226,12 +226,12 @@ Options:
 
 <div align="center">
 
-**Made with 🐍 by [xKILLERDEADx](https://github.com/xKILLERDEADx)**
+**Made with 🐍 by [V3n0mSh3ll](https://github.com/V3n0mSh3ll)**
 
 🌐 [muhammadabid.com](https://muhammadabid.com)
 
-![Stars](https://img.shields.io/github/stars/xKILLERDEADx/snakebite?style=social)
-![Downloads](https://img.shields.io/github/downloads/xKILLERDEADx/snakebite/total?style=social)
+![Stars](https://img.shields.io/github/stars/V3n0mSh3ll/snakebite?style=social)
+![Downloads](https://img.shields.io/github/downloads/V3n0mSh3ll/snakebite/total?style=social)
 
 ---
 

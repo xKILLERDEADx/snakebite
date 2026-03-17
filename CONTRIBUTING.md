@@ -52,5 +52,5 @@ Thanks for your interest in contributing! Here's how you can help.
 
 ## Questions?
 
-Open an issue or reach out to [@xKILLERDEADx](https://github.com/xKILLERDEADx).
+Open an issue or reach out to [@V3n0mSh3ll](https://github.com/V3n0mSh3ll).
 
